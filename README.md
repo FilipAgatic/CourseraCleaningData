@@ -1,6 +1,6 @@
 
 # Project title: 
-**MERGING AND CLEANING THE HUMAN ACTIVITY SMARTPHONE DATASET (Getting and Cleaning Data Coursera course final project)**
+**MERGING AND CLEANING THE HUMAN ACTIVITY SMARTPHONE DATA-SET (Getting and Cleaning Data Coursera course final project)**
 
 # Project author:
 **Filip Agatić**
